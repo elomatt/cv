@@ -2,8 +2,11 @@
 ## Personal Information
 ### Matthew Aldous
 Born in the UK, 1 August 1990
+
 email: matt.aldous@soton.ac.uk
+
 website: http://mattaldous.weebly.com
+
 phone: (W) 02380 593931 (M) 07858 948715
 
 ## Summary
@@ -58,19 +61,35 @@ outreach computer and electronics skills, GNU Image Manipulation Program, Inksca
 
 ## Languages
 English (Mother-tongue)
+
 French (Fluent)
+
 Spanish (Conversational)
+
 Italian (Basic)
 
 ## Other Information
-Volunteering 2015-2018 STEMNET ambassador
-2015-2017 The Science Room
-Awards 2012 The Exeter Award
-2012 Xpression FM Best Presenter 2012
-2009 University of Exeter Dean’s Commendation
+### Volunteering
+
+STEMNET ambassador (2015-2018)
+
+The Science Room (2015-2017)
+
+### Awards
+
+STEM for Britain Physics: Silver Award (2016)
+
+The Exeter Award (2012)
+
+Xpression FM Best Presenter (2012)
+
+University of Exeter Dean’s Commendation (2009)
 
 ## Interests
 Violin
+
 Bodhran
+
 Cooking
+
 Cycling
