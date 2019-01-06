@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.5)  6 JAN 2019 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.5)  6 JAN 2019 01:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -1126,14 +1126,14 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 7.
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 26.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 25.
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 25.
 ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 25.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1144,7 +1144,7 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 [1
 
 {C:/Users/ma9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1153,10 +1153,10 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EEB9D08541B0EAA3994716A21ABADA28;956.
 
@@ -1165,13 +1165,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23250 strings out of 493323
- 388406 string characters out of 3130884
+ 23258 strings out of 493323
+ 388498 string characters out of 3130884
  484067 words of memory out of 3000000
  26523 multiletter control sequences out of 15000+200000
- 588926 words of font info for 78 fonts, out of 3000000 for 9000
+ 589330 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,13n,65p,772b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,13n,65p,772b,569s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
 {C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.en
 c}{C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontawesome/f
@@ -1185,7 +1185,7 @@ Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/ma9/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/ma9/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ma9/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (2 pages, 172325 bytes).
+Output written on main.pdf (2 pages, 173491 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
