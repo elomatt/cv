@@ -19,6 +19,7 @@
 
 % adjust the page margins
 \usepackage[scale=0.5, left=1cm, right=2cm, top=1cm, bottom=3cm]{geometry}
+\usepackage{enumitem}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
 %\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
@@ -41,31 +42,102 @@
 \renewcommand\@biblabel[1]{\textbullet}
 \makeatother
 
+\setlength{\hintscolumnwidth}{3.5cm}
+
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
 \begin{document}
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
+\vspace{-1.5cm}
+\section{Professional Profile}
+As an independent researcher who is deeply motivated to push the frontiers of what can be achieved with quantum technologies, I have a vision for the evolution of sensing and timekeeping tools through innovative engineering, and the strong experimental skills to make them a reality. Throughout my career I have been proactive in developing new collaborations and finding novel approaches to my research.
 
-\section{Education}
-\cventry{year--year}{Degree}{Institution}{City}{\textit{Grade}}{Description}  % arguments 3 to 6 can be left empty
+\section{Experience as a Researcher}
+\cventry{May 2017–present}{Postdoctoral Fellow}{University of Birmingham}{}{}
+{Seconded permanently to the National Physical Laboratory, I worked in a Birmingham multi-disciplinary team to deliver a next-generation compact strontium clock.
+\begin{itemize}[leftmargin=1cm]
+	\item Design, construction and operation of portable multi-wavelength laser stabilisation system
+	\item Integrated documentation of whole project
+\end{itemize}
+}  % arguments 3 to 6 can be left empty
+
+\cventry{May 2016-May 2017}{Postdoctoral Fellow}{University of Southampton}{}{}
+{As a post-doc in the Integrated Atom Chips group I continued supporting the Southampton research of the group which I had started during my PhD. My responsibilities included supervision of students and writing grant proposals.
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}
+} 
+
+\cventry{Oct 2012–May 2016}{Postgraduate Researcher}{University of Southampton}{}{}
+{My PhD focused on cold atom technology transfer and on techniques for sealing the vacuum chambers of integrated atom chips.
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}
+}
+
+\cventry{Jun-Oct 2012}{Researcher Assistant}{University of Exeter}{}{}
+{Designing and building a semi-automated Magneto-Optical Kerr Effect Exeter (MOKE) microscope for use in analysis of nano-antennas and assessment of their enhancement of magnetisation measurements.
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}
+} 
+
+\cventry{Jun-Sep 2011}{Researcher Assistant}{University of Exeter}{}{}
+{Developing a new image acquisition program using LabVIEW to take automated hyper-spectral stacks of organic samples using Raman spectroscopy techniques.
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}
+}
 
 % Publications from a BibTeX file without multibib
 %  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
-%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\renewcommand{\refname}{Academic Output}
 \nocite{*}
 \bibliographystyle{habbrvyr}
 \bibliography{publications}
 
-% Publications from a BibTeX file using the multibib package
-%\section{Publications}
-%\nocitebook{book1,book2}
-%\bibliographystylebook{plain}
-%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
-%\nocitemisc{misc1,misc2,misc3}
-%\bibliographystylemisc{plain}
-%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+\section{Experience as an Educator}
+\cventry{Oct 2013–May 2016}{1st Year Labs Demonstrator}{University of Southampton}{}{}{
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}}
+\cventry{April 2011-present}{Private Tutor}{Freelance}{}{}{
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}}
+
+\section{Education}
+\cventry{Oct 2008-Jun 2012}{MPhys Physics with European Study}{University of Exeter}{}{}{
+\textbf{First Class Honours} My Masters thesis explored technologies for improving magnetic imaging techniques after spending a year living and studying at the Universite de Rennes 1.
+\begin{itemize}[leftmargin=1cm]
+	\item 
+	\item 
+\end{itemize}}
+\cventry{Sep 2006-Jun 2008}{A Levels}{Bournemouth School}{}{}{Physics, French, Mathematics, English Literature, Music (AS)}
+\cventry{Sep 2004-Jun 2006}{GCSEs}{Bournemouth School}{}{}{9 GCSEs including Double Science and Mathematics at A*}
+
+\section{Skills}
+\cvitem{\textbf{Physics}}{Atomic physics, vacuum science, semiconductor, quantum optics}\cvitem{\textbf{Communication}}{Scientific writing, public engagement, community outreach}
+\cvitem{\textbf{Computing}}{LabVIEW, \LaTeX, python, C/C++, COMSOL, Linux, Windows}
+\cvitem{\textbf{Electronics}}{Printed circuit board design, integration and testing, analog and digital}
+\cvitem{\textbf{Languages}}{French (Fluent), Spanish (Conversational), Italian (Basic)}
+
+\section{Awards}
+\cvitem{2016}{STEM for Britain: Silver Award in Physics}
+\cvitem{2012}{The Exeter Award}
+\cvitem{2012}{Xpression FM Best Presenter}
+\cvitem{2009}{University of Exeter Dean’s Commendation}
+
+\section{Interests}
+\cvitem{}{Folk music, cycling and cooking}
 
 \end{document}
 
