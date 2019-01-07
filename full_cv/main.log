@@ -1,51 +1,46 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.5)  6 JAN 2019 01:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.14)  7 JAN 2019 23:39
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncv.cl
-s"
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 73 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncv.cls"
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
 ocument class
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.st
-y"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2016/12/01 v2.2b e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count79
-) ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.c
-fg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.
-def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count80
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.st
-y"
-Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
- ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen102
 \extrarowheight=\dimen103
 \NC@list=\toks14
@@ -66,23 +61,21 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -117,26 +110,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.st
-y"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphic
-s.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -144,22 +135,20 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.st
-y"
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip44
-\f@nch@O@elh=\skip45
-\f@nch@O@erh=\skip46
-\f@nch@O@olh=\skip47
-\f@nch@O@orh=\skip48
-\f@nch@O@elf=\skip49
-\f@nch@O@erf=\skip50
-\f@nch@O@olf=\skip51
-\f@nch@O@orf=\skip52
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\tweaklist.s
-ty") ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\tweaklist.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count82
 \calc@Bcount=\count83
@@ -172,25 +161,39 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count84
 \calc@Cskip=\skip55
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xp
-arse.sty"
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2019-01-01 L3 programming layer (loader) 
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2016/11/21 v6760 L3 programming layer (loader) 
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.
-tex"
-Package: expl3 2019-01-01 L3 programming layer (code)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2016/11/21 v6760 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/06/13 v6596 L3 Bootstrap code
+L3 Module: l3names 2016/10/13 v6722 L3 Namespace for primitives
+L3 Module: l3basics 2016/09/01 v6696 L3 Basic definitions
+L3 Module: l3expan 2016/08/19 v6684 L3 Argument expansion
+L3 Module: l3tl 2016/08/19 v6692 L3 Token lists
+L3 Module: l3str 2016/08/19 v6692 L3 Strings
+L3 Module: l3seq 2016/08/19 v6685 L3 Sequences and stacks
+L3 Module: l3int 2016/09/07 v6700 L3 Integers
 \c_max_int=\count85
 \l_tmpa_int=\count86
 \l_tmpb_int=\count87
 \g_tmpa_int=\count88
 \g_tmpb_int=\count89
-\g__kernel_prg_map_int=\count90
-\c_log_iow=\count91
-\l_iow_line_count_int=\count92
-\l__iow_line_target_int=\count93
-\l__iow_one_indent_int=\count94
-\l__iow_indent_int=\count95
+L3 Module: l3quark 2016/08/19 v6685 L3 Quarks
+L3 Module: l3prg 2016/08/18 v6679 L3 Control structures
+\g__prg_map_int=\count90
+L3 Module: l3clist 2016/08/19 v6685 L3 Comma separated lists
+L3 Module: l3token 2016/09/01 v6695 L3 Experimental token manipulation
+L3 Module: l3prop 2016/08/19 v6685 L3 Property lists
+L3 Module: l3msg 2016/08/19 v6691 L3 Messages
+L3 Module: l3file 2016/08/19 v6685 L3 File and I/O operations
+\l_iow_line_count_int=\count91
+\l__iow_target_count_int=\count92
+\l__iow_current_line_int=\count93
+\l__iow_current_word_int=\count94
+\l__iow_current_indentation_int=\count95
+L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
 \c_zero_dim=\dimen108
 \c_max_dim=\dimen109
 \l_tmpa_dim=\dimen110
@@ -209,214 +212,170 @@ Package: expl3 2019-01-01 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2016/09/21 v6711 L3 Key-value interfaces
 \l_keys_choice_int=\count96
-\l__intarray_loop_int=\count97
-\c__intarray_sp_dim=\dimen114
-\g__intarray_font_int=\count98
-\c__fp_leading_shift_int=\count99
-\c__fp_middle_shift_int=\count100
-\c__fp_trailing_shift_int=\count101
-\c__fp_big_leading_shift_int=\count102
-\c__fp_big_middle_shift_int=\count103
-\c__fp_big_trailing_shift_int=\count104
-\c__fp_Bigg_leading_shift_int=\count105
-\c__fp_Bigg_middle_shift_int=\count106
-\c__fp_Bigg_trailing_shift_int=\count107
-\c__kernel_randint_max_int=\count108
-\g__fp_array_int=\count109
-\l__fp_array_loop_int=\count110
-\l__sort_length_int=\count111
-\l__sort_min_int=\count112
-\l__sort_top_int=\count113
-\l__sort_max_int=\count114
-\l__sort_true_max_int=\count115
-\l__sort_block_int=\count116
-\l__sort_begin_int=\count117
-\l__sort_end_int=\count118
-\l__sort_A_int=\count119
-\l__sort_B_int=\count120
-\l__sort_C_int=\count121
-\l__tl_analysis_normal_int=\count122
-\l__tl_analysis_index_int=\count123
-\l__tl_analysis_nesting_int=\count124
-\l__tl_analysis_type_int=\count125
-\l__regex_internal_a_int=\count126
-\l__regex_internal_b_int=\count127
-\l__regex_internal_c_int=\count128
-\l__regex_balance_int=\count129
-\l__regex_group_level_int=\count130
-\l__regex_mode_int=\count131
-\c__regex_cs_in_class_mode_int=\count132
-\c__regex_cs_mode_int=\count133
-\l__regex_catcodes_int=\count134
-\l__regex_default_catcodes_int=\count135
-\c__regex_catcode_D_int=\count136
-\c__regex_catcode_S_int=\count137
-\c__regex_catcode_L_int=\count138
-\c__regex_catcode_O_int=\count139
-\c__regex_catcode_A_int=\count140
-\c__regex_all_catcodes_int=\count141
-\l__regex_show_lines_int=\count142
-\l__regex_min_state_int=\count143
-\l__regex_max_state_int=\count144
-\l__regex_left_state_int=\count145
-\l__regex_right_state_int=\count146
-\l__regex_capturing_group_int=\count147
-\l__regex_min_pos_int=\count148
-\l__regex_max_pos_int=\count149
-\l__regex_curr_pos_int=\count150
-\l__regex_start_pos_int=\count151
-\l__regex_success_pos_int=\count152
-\l__regex_curr_char_int=\count153
-\l__regex_curr_catcode_int=\count154
-\l__regex_last_char_int=\count155
-\l__regex_case_changed_char_int=\count156
-\l__regex_curr_state_int=\count157
-\l__regex_step_int=\count158
-\l__regex_min_active_int=\count159
-\l__regex_max_active_int=\count160
-\l__regex_replacement_csnames_int=\count161
-\l__regex_match_count_int=\count162
-\l__regex_min_submatch_int=\count163
-\l__regex_submatch_int=\count164
-\l__regex_zeroth_submatch_int=\count165
-\g__regex_trace_regex_int=\count166
+L3 Module: l3fp 2016/11/21 v6761 L3 Floating points
+\c__fp_leading_shift_int=\count97
+\c__fp_middle_shift_int=\count98
+\c__fp_trailing_shift_int=\count99
+\c__fp_big_leading_shift_int=\count100
+\c__fp_big_middle_shift_int=\count101
+\c__fp_big_trailing_shift_int=\count102
+\c__fp_Bigg_leading_shift_int=\count103
+\c__fp_Bigg_middle_shift_int=\count104
+\c__fp_Bigg_trailing_shift_int=\count105
+L3 Module: l3box 2016/08/19 v6685 L3 Experimental boxes
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
-\l__box_top_dim=\dimen115
-\l__box_bottom_dim=\dimen116
-\l__box_left_dim=\dimen117
-\l__box_right_dim=\dimen118
-\l__box_top_new_dim=\dimen119
-\l__box_bottom_new_dim=\dimen120
-\l__box_left_new_dim=\dimen121
-\l__box_right_new_dim=\dimen122
-\l__box_internal_box=\box31
-\l__coffin_internal_box=\box32
-\l__coffin_internal_dim=\dimen123
-\l__coffin_offset_x_dim=\dimen124
-\l__coffin_offset_y_dim=\dimen125
-\l__coffin_x_dim=\dimen126
-\l__coffin_y_dim=\dimen127
-\l__coffin_x_prime_dim=\dimen128
-\l__coffin_y_prime_dim=\dimen129
-\c_empty_coffin=\box33
-\l__coffin_aligned_coffin=\box34
-\l__coffin_aligned_internal_coffin=\box35
-\l_tmpa_coffin=\box36
-\l_tmpb_coffin=\box37
-\l__coffin_display_coffin=\box38
-\l__coffin_display_coord_coffin=\box39
-\l__coffin_display_pole_coffin=\box40
-\l__coffin_display_offset_dim=\dimen130
-\l__coffin_display_x_dim=\dimen131
-\l__coffin_display_y_dim=\dimen132
-\g__file_internal_ior=\read1
-\l__coffin_bounding_shift_dim=\dimen133
-\l__coffin_left_corner_dim=\dimen134
-\l__coffin_right_corner_dim=\dimen135
-\l__coffin_bottom_corner_dim=\dimen136
-\l__coffin_top_corner_dim=\dimen137
-\l__coffin_scaled_total_height_dim=\dimen138
-\l__coffin_scaled_width_dim=\dimen139
-\l__seq_internal_a_int=\count167
-\l__seq_internal_b_int=\count168
+L3 Module: l3coffins 2016/08/19 v6685 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen114
+\l__coffin_offset_x_dim=\dimen115
+\l__coffin_offset_y_dim=\dimen116
+\l__coffin_x_dim=\dimen117
+\l__coffin_y_dim=\dimen118
+\l__coffin_x_prime_dim=\dimen119
+\l__coffin_y_prime_dim=\dimen120
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen121
+\l__coffin_display_x_dim=\dimen122
+\l__coffin_display_y_dim=\dimen123
+L3 Module: l3color 2016/06/13 v6596 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen124
+\l__box_bottom_dim=\dimen125
+\l__box_left_dim=\dimen126
+\l__box_right_dim=\dimen127
+\l__box_top_new_dim=\dimen128
+\l__box_bottom_new_dim=\dimen129
+\l__box_left_new_dim=\dimen130
+\l__box_right_new_dim=\dimen131
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen132
+\l__coffin_left_corner_dim=\dimen133
+\l__coffin_right_corner_dim=\dimen134
+\l__coffin_bottom_corner_dim=\dimen135
+\l__coffin_top_corner_dim=\dimen136
+\l__coffin_scaled_total_height_dim=\dimen137
+\l__coffin_scaled_width_dim=\dimen138
+L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.d
-ef"
-File: l3pdfmode.def 2019-01-01 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count169
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2016/08/18 v6679 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count106
+\l__driver_tmp_box=\box41
 ))
-Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count170
-\g__xparse_grabber_int=\count171
-\l__xparse_m_args_int=\count172
-\l__xparse_mandatory_args_int=\count173
-\l__xparse_v_nesting_int=\count174
+Package: xparse 2016/11/21 v6760 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count107
+\l__xparse_m_args_int=\count108
+\l__xparse_mandatory_args_int=\count109
+\l__xparse_processor_int=\count110
+\l__xparse_v_nesting_int=\count111
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.
-sty"
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
 \MT@toks=\toks17
-\MT@count=\count175
-LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen140
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count176
+\MT@count=\count112
+LaTeX Info: Redefining \textls on input line 774.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count113
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype-
-pdftex.def"
-File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 913.
-LaTeX Info: Redefining \lslig on input line 913.
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
 \MT@outer@space=\skip62
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.
-cfg"
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvcol
-lection.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvcollection.sty"
 Package: moderncvcollection 2015/07/28 v2.0.0 moderncv collections
-\c@collection@iterator=\count177
+\c@collection@iterator=\count114
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvcom
-patibility.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvcompatibility.sty"
 Package: moderncvcompatibility 2015/07/28 v2.0.0 modern curriculum vitae and le
 tter compatibility patches
 )
-\c@collection@phones@count=\count178
-\c@collection@socials@count=\count179
-\c@cvcolumnscounter=\count180
-\c@cvcolumnsautowidthcounter=\count181
-\c@tmpiteratorcounter=\count182
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \address with sig. 'mG{}G{}' on line 236.
+.................................................
+\c@collection@phones@count=\count115
+\c@collection@socials@count=\count116
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \social with sig. 'O{}O{}m' on line 263.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \photo with sig. 'O{64pt}O{0.4pt}m' on line 391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \section with sig. 'sm' on line 449.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \subsection with sig. 'sm' on line 453.
+.................................................
+\c@cvcolumnscounter=\count117
+\c@cvcolumnsautowidthcounter=\count118
+\c@tmpiteratorcounter=\count119
 \cvcolumnsdummywidth=\skip63
 \cvcolumnswidth=\skip64
 \cvcolumnsautowidth=\skip65
 \cvcolumnautowidth=\skip66
 \bibindent=\skip67
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvsty
-lecasual.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvstylecasual.sty"
 Package: moderncvstylecasual 2015/07/28 v2.0.0 modern curriculum vitae and lett
 er style scheme: casual
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvico
-nsawesome.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncviconsawesome.sty"
 Package: moderncviconsawesome 2015/07/28 v2.0.0 modern curriculum vitae and let
 ter icons: awesome
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontawesome\fontawes
-ome.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontawesome\fontawesome.sty"
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontawesome\fontawes
-omesymbols-generic.tex")
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontawesome\fontawes
-omesymbols-pdftex.tex")))
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvhea
-dii.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontawesome\fontawesomesymbols-generic.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontawesome\fontawesomesymbols-pdftex.t
+ex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvheadii.sty"
 
 LaTeX Warning: You have requested package `moderncvheadii',
                but the package provides `moderncvheadii'.
 
 Package: moderncvheadii 2015/07/28 v2.0.0 modern curriculum vitae and letter he
 ader variant: 2
-\makeheaddetailsbox=\box41
-\makeheaddetailstempbox=\box42
+\makeheaddetailsbox=\box42
+\makeheaddetailstempbox=\box43
 \makeheaddetailswidth=\skip68
 \makeheaddetailsboxwidth=\skip69
 \quotewidth=\skip70
 \makecvheadnamewidth=\skip71
-)
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvbod
-yi.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvbodyi.sty"
 
 LaTeX Warning: You have requested package `moderncvbodyi',
                but the package provides `moderncvbodyi'.
@@ -430,20 +389,33 @@ y variant: 1
 \listitemsymbolwidth=\skip76
 LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
 line 46.
-
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontawesome\ufontawe
-sometwo.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontawesome\ufontawesometwo.fd"
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 \listitemcolumnwidth=\skip77
 \listdoubleitemcolumnwidth=\skip78
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \photo with sig. 'O{\hintscolumnwidth -0.8pt-2\fboxsep
+. }O{0.4pt}m' on line 51.
+.................................................
 \baseletterheight=\skip79
-\cvitemwithcommentbox=\box43
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \section with sig. 'sm' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \subsection with sig. 'sm' on line 80.
+.................................................
+\cvitemwithcommentbox=\box44
 \cvitemwithcommentskilllength=\skip80
 \cvitemwithcommentcommentlength=\skip81
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvfoo
-ti.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvfooti.sty"
 
 LaTeX Warning: You have requested package `moderncvfooti',
                but the package provides `moderncvfooti'.
@@ -451,29 +423,26 @@ LaTeX Warning: You have requested package `moderncvfooti',
 Package: moderncvfooti 2015/07/28 v2.0.0 modern curriculum vitae and letter foo
 ter variant: 1
 \footwidth=\skip82
-\footbox=\box44
-\foottempbox=\box45
+\footbox=\box45
+\foottempbox=\box46
 \footboxwidth=\skip83
-))
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\moderncvcol
-orburgundy.sty"
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\moderncv\moderncvcolorburgundy.sty"
 Package: moderncvcolorburgundy 2015/07/28 v2.0.0 modern curriculum vitae and le
 tter color scheme: burgundy
-)
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -685,8 +654,6 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0232 (decimal 562)
-   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -707,14 +674,12 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+1E20 (decimal 7712)
-   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -754,8 +719,8 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -778,34 +743,30 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
-"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count183
-\Gm@cntv=\count184
-\c@Gm@tempcnt=\count185
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks20
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cf
-g")
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")
 
 Package geometry Warning: Over-specification in `h'-direction.
     `width' (298.75394pt) is ignored.
@@ -814,27 +775,22 @@ Package geometry Warning: Over-specification in `h'-direction.
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (422.52342pt) is ignored.
 
-)
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.st
-y"
-Package: enumitem 2018/11/30 v3.6 Customized lists
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip84
-\enit@outerparindent=\dimen149
+\enit@outerparindent=\dimen148
 \enit@toks=\toks21
-\enit@inbox=\box46
-\enitdp@description=\count186
+\enit@inbox=\box47
+\enitdp@description=\count123
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.st
-y"
-Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hy
-perref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-ge
-neric.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -850,7 +806,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -871,73 +827,68 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen150
-\Hy@linkcounter=\count187
-\Hy@pagecounter=\count188
+\@linkdim=\dimen149
+\Hy@linkcounter=\count124
+\Hy@pagecounter=\count125
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count189
+\Hy@SavedSpaceFactor=\count126
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cf
-g"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4374.
+Package hyperref Info: Option `unicode' set `true' on input line 4362.
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
-File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4498.
-Package hyperref Info: Link nesting OFF on input line 4503.
-Package hyperref Info: Hyper index ON on input line 4506.
-Package hyperref Info: Plain pages OFF on input line 4513.
-Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count190
-LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen151
-\Fld@menulength=\count191
-\Field@Width=\dimen152
-\Fld@charsize=\dimen153
-Package hyperref Info: Hyper figures OFF on input line 6358.
-Package hyperref Info: Link nesting OFF on input line 6363.
-Package hyperref Info: Hyper index ON on input line 6366.
-Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring OFF on input line 6378.
-Package hyperref Info: Link coloring with OCG OFF on input line 6383.
-Package hyperref Info: PDF/A mode OFF on input line 6388.
-LaTeX Info: Redefining \ref on input line 6428.
-LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count192
-\c@Item=\count193
-\c@Hfootnote=\count194
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count127
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen150
+\Fld@menulength=\count128
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count129
+\c@Item=\count130
+\c@Hfootnote=\count131
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
-"
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count195
-\c@bookmark@seq@number=\count196
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count132
+\c@bookmark@seq@number=\count133
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilech
-eck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -946,7 +897,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 50.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 50.
- (main.aux)
+
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -966,30 +918,26 @@ LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 50.
-
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
-"
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
-\scratchdimen=\dimen154
-\scratchbox=\box47
-\nofMPsegments=\count198
-\nofMParguments=\count199
+\scratchcounter=\count134
+\scratchdimen=\dimen153
+\scratchbox=\box48
+\nofMPsegments=\count135
+\nofMParguments=\count136
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count266
-\MPscratchDim=\dimen155
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen154
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
 \everyMPtoPDFconversion=\toks23
-)
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-ba
-se.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1010,16 +958,16 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 50.
- ("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package microtype Info: Loading generic protrusion settings for font family
+Package microtype Info: Loading generic settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
@@ -1058,52 +1006,51 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box48
+\AtBeginShipoutBox=\box49
 Package hyperref Info: Link coloring OFF on input line 50.
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitles
-tring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count269
+\c@section@level=\count140
 )
 LaTeX Info: Redefining \ref on input line 50.
 LaTeX Info: Redefining \pageref on input line 50.
 LaTeX Info: Redefining \nameref on input line 50.
- (main.out) (main.out)
+
+(main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-\makecvheadpicturebox=\box49
+\makecvheadpicturebox=\box50
 \makecvheadpicturewidth=\skip86
-\makecvheadnamebox=\box50
+\makecvheadnamebox=\box51
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
  []
 
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 54.
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 54.
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 54.
 
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 54.
 
 
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1112,8 +1059,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 54.
-
-(main.bbl
+ (main.bbl
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 3.
 LaTeX Font Info:    No file OMSlmss.fd. on input line 3.
 
@@ -1126,14 +1072,14 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 7.
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 25.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 26.
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 25.
-("C:\Users\ma9\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 26.
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1143,7 +1089,7 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 [1
 
-{C:/Users/ma9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
 
 
@@ -1158,36 +1104,33 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EEB9D08541B0EAA3994716A21ABADA28;956.
+(rerunfilecheck)             Checksum: 1F076642CEAE1D263BA5A7FDA45E473F;778.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23258 strings out of 493323
- 388498 string characters out of 3130884
- 484067 words of memory out of 3000000
- 26523 multiletter control sequences out of 15000+200000
- 589330 words of font info for 82 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 47i,13n,65p,772b,569s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
-{C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.en
-c}{C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontawesome/f
-ontawesometwo.enc}<C:/Users/ma9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/fontawesome/FontAwesome.pfb><C:/Users/ma9/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ma9/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/ma9/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/ma9/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Users/ma9/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/ma9/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/ma9/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ma9/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (2 pages, 173491 bytes).
+ 21008 strings out of 493363
+ 346123 string characters out of 3139779
+ 431782 words of memory out of 3000000
+ 24257 multiletter control sequences out of 15000+200000
+ 60531 words of font info for 71 fonts, out of 3000000 for 9000
+ 1127 hyphenation exceptions out of 8191
+ 48i,13n,49p,10358b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/fontawesome/fontawesometwo.enc}<C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/fontawesome/FontAwesome.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
+/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss
+o10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (2 pages, 172348 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 19009 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 19001 words of extra memory for PDF output out of 20736 (max. 10000000)
 
